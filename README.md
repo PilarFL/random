@@ -9,11 +9,11 @@ Random is a JavaScript code that determines whether a random number obtained is 
 
 Open the terminal window
 
-Copy the file  random.js </ tt> to a directory on your system
+Copy the file <tt>random.js </ tt> to a directory on your system
 
-Change the default directory to the one containing the file  random.js </ tt>
+Change the default directory to the one containing the file  <tt>random.js </ tt>
 
-At the command prompt, run javascripts code:  node random.js </ tt>
+At the command prompt, <tt>run javascripts code:  node random.js </ tt>
 
 Read the result obtained after the code execution
 
